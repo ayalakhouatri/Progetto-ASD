@@ -20,7 +20,7 @@ Il sistema sarà suddiviso nei seguenti moduli principali:
 
 ## 3. Strutture dati fondamentali
 In questa prima fase concettuale, le entità principali del sistema sono:
-*   **Grafo pesato e non orientato**: Struttura centrale per rappresentare la topologia della rete degli Autonomous Systems[cite: 1].
+*   **Grafo pesato e non orientato**: Struttura centrale per rappresentare la topologia della rete degli Autonomous Systems.
 *   **Pesi degli archi**: Valori associati alle connessioni, definiti dalla funzione $w(u,v) = f(u,v)$ che rappresenta la frequenza di comparizione dell'arco nei cammini BGP letti in input.
 
 ## 4. Principali interazioni tra moduli

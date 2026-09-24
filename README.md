@@ -1,5 +1,3 @@
-# Progetto-ASD test 
-Progetto di Algoritmi e Strutture dei Dati di Aya Lakhouatri
 # Progetto-ASD (architettura iniziale)
 Progetto di Algoritmi e Strutture dei Dati di Aya Lakhouatri
 
